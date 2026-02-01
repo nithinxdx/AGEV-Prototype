@@ -27,17 +27,6 @@ Developed during internship at Pragyatmika (Embedded Systems & IoT Division).
 - Differential drive control
 - PWM speed control
 
-## Folder Structure
-
-AGEV-Prototype/
-├── firmware/
-├── docs/
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── LICENSE
-
-
 ## Author
-nithinxdx .
+nithinxdx ,
 Electronics & Communication Engineering
